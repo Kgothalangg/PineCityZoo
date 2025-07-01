@@ -1,4 +1,4 @@
-# PineCityZoo
+# Pine-City-Zoo-Re-Do
 An app that aim to raise revenue and attraction to a zoo located at a small city called Pine City - School Project.
 
 The app has a map as its home page, weather forecast and the feedback, for suggestions and complaints.
